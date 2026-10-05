@@ -1,0 +1,5 @@
+*.class
+students.txt
+.idea/
+*.iml
+out/
